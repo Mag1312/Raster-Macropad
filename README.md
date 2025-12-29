@@ -21,6 +21,10 @@ Now comes the case!
 
 ![image of both top and bottom part of the case](Case-img.png)
 
+And finally the full image!
+
+![image of full fleged Raster](Raster.png)
+
 And those are all the images!
 
 Now time for all the componenets used!
