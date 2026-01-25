@@ -460,7 +460,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Water.kicad_pro",
+    "filename": "Raster.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -496,7 +496,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "C:/Users/krust/Desktop/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
